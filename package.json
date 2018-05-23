@@ -1,0 +1,37 @@
+{
+  "name": "launchpad-sampler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Legonzaur/Launchpad-Sampler.git"
+  },
+  "keywords": [
+    "Launchpad",
+    "Sampler",
+    "javascript",
+    "js",
+    "node",
+    "node-js"
+  ],
+  "author": "Ajyfh",
+  "license": "GPL-3.0 ",
+  "devDependencies": {
+    "electron": "^2.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/Legonzaur/Launchpad-Sampler/issues"
+  },
+  "homepage": "https://github.com/Legonzaur/Launchpad-Sampler#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1",
+    "socket.io-file": "^2.0.2",
+    "socket.io-file-client": "^2.0.2"
+  }
+}
